@@ -18,6 +18,8 @@ for counter in range(5):
 # Task 2:
 name = "Phoebe"
 
+for letter in name:
+    print("Give me a " + letter + "!")
 
 
 ########################################################################
