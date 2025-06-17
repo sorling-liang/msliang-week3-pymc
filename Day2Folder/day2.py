@@ -12,8 +12,8 @@ for letter in "this is a beautiful day":
     print(letter)
 
 for counter in range(5):
-    print(counter)
-    
+    print(counter * 13)
+
 ########################################################################
 # Task 2:
 
