@@ -5,14 +5,14 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 
-for count in range(100):
-    print("Hello") # I will not sling mud at my friends!
+# for count in range(100):
+#     print("Hello") # I will not sling mud at my friends!
 
-for letter in "this is a beautiful day":
-    print(letter)
+# for letter in "this is a beautiful day":
+#     print(letter)
 
-for counter in range(5):
-    print(counter)
+# for counter in range(5):
+#     print(counter)
 
 ########################################################################
 # Task 2:
