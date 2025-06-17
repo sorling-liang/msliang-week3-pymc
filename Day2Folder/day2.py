@@ -16,7 +16,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-name = "Phoebe"
+name = "PHOEBE"
 
 for letter in name:
     print("Give me a " + letter + "!")
