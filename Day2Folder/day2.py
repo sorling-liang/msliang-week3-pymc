@@ -8,6 +8,8 @@ print("hello from day2")
 for count in range(100):
     print("Hello") # I will not sling mud at my friends!
 
+for letter in "this is a beautiful day":
+    print(letter)
 ########################################################################
 # Task 2:
 
