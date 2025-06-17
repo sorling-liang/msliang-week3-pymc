@@ -10,7 +10,8 @@ for count in range(100):
 
 for letter in "this is a beautiful day":
     print(letter)
-    
+
+for counter in range(100):
 ########################################################################
 # Task 2:
 
