@@ -37,8 +37,11 @@ print("please pay me $" + str(total)  )
 
 ########################################################################
 # Task 5:
-num1 = input("how old is grandpa?")
-num1 = int(nu)
+num1 = input("how old is grandpa? ")
+num1 = int(num1)
+num2 = input("how old is grandma? ")
+num2 = int(num2)
+
 
 ########################################################################
 # Task 6:
