@@ -37,10 +37,8 @@ print("please pay me $" + str(total)  )
 
 ########################################################################
 # Task 5:
-
-raining = True
-hungry = False
-wallet = 1000
+num1 = input("how old is grandpa?")
+num1 = int(nu)
 
 ########################################################################
 # Task 6:
