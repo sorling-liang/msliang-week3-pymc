@@ -6,7 +6,7 @@ yourname = input("what is your name?")
 print("hello, " + yourname)
 
 yourage = input("how old are you?")
-print( yourage + 3 )
+print( int(yourage) + 3 )
 
 ########################################################################
 # Task 1:
