@@ -40,7 +40,7 @@ print("please pay me $" + str(total)  )
 
 raining = True
 hungry = False
-
+wallet = 1000
 
 ########################################################################
 # Task 6:
