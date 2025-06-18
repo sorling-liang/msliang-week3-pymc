@@ -7,7 +7,7 @@ print("hello, " + yourname)
 
 yourage = input("how old are you?")
 newage = int(yourage) + 3
-print("hey, I am also " + newage)
+print("hey, I am also " + str(newage))
 
 ########################################################################
 # Task 1:
