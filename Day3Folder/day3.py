@@ -21,18 +21,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-
-num1 = input("give me a number: ")
-num2 = input("give me another number: ")
-results = int(num1) + int(num2)
-print("the outcome is " + str(results)    )
+# num1 = input("give me a number: ")
+# num2 = input("give me another number: ")
+# results = int(num1) + int(num2)
+# print("the outcome is " + str(results)    )
 
 ########################################################################
 # Task 4:
-count = input("How many ice cream do you want to buy?   ")
-price = 1.00
-total = int(count) * price
-print("please pay me $" + str(total)  )
+# count = input("How many ice cream do you want to buy?   ")
+# price = 1.00
+# total = int(count) * price
+# print("please pay me $" + str(total)  )
 
 
 ########################################################################
