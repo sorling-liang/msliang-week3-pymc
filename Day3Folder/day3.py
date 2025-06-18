@@ -6,7 +6,7 @@ yourname = input("what is your name?")
 print("hello, " + yourname)
 
 yourage = input("how old are you?")
-newage = int(yourage) + 3
+newage = int(yourage) + 3 # do math operation
 print("hey, I am also " + str(newage))
 
 ########################################################################
