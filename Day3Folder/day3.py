@@ -42,6 +42,10 @@ num1 = int(num1)
 num2 = input("how old is grandma? ")
 num2 = int(num2)
 
+if num1 > num2:
+    print("grandpa is older")
+else:
+    print("grandma is ")
 
 ########################################################################
 # Task 6:
