@@ -24,7 +24,7 @@ print("hello from day3")
 
 num1 = input("give me a number: ")
 num2 = input("give me another number: ")
-results = num1 + num2
+results = int(num1) + int(num2)
 print("the outcome is " + results)
 
 ########################################################################
