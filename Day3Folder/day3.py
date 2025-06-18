@@ -33,7 +33,6 @@ print("hello from day3")
 # total = int(count) * price
 # print("please pay me $" + str(total)  )
 
-
 ########################################################################
 # Task 5:
 num1 = input("how old is grandpa? ")
