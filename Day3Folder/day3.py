@@ -32,7 +32,7 @@ print("the outcome is " + str(results)    )
 count = input("How many ice cream do you want to buy?")
 price = 1.00
 total = int(count) * price
-print("please pay me $" + str(total))
+print("please pay me $" + str(total)  )
 
 
 ########################################################################
