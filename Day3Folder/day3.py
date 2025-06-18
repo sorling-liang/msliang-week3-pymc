@@ -31,8 +31,8 @@ print("the outcome is " + str(results)    )
 # Task 4:
 count = input("How many ice cream do you want to buy?")
 price = 1.00
-total = count * price
-print("please pay me $" + total)
+total = int(count) * price
+print("please pay me $" + str(total))
 
 
 ########################################################################
