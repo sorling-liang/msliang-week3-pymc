@@ -35,15 +35,15 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-num1 = input("how old is grandpa? ")
-num1 = int(num1)
-num2 = input("how old is grandma? ")
-num2 = int(num2)
+# num1 = input("how old is grandpa? ")
+# num1 = int(num1)
+# num2 = input("how old is grandma? ")
+# num2 = int(num2)
 
-if num1 > num2:
-    print("grandpa is older")
-else:
-    print("grandma is older, or same age")
+# if num1 > num2:
+#     print("grandpa is older")
+# else:
+#     print("grandma is older, or same age")
 
 ########################################################################
 # Task 6:
@@ -53,12 +53,26 @@ else:
 ########################################################################
 # Task 7:
 
-
+# import random
+# random_number = random.randint(1, 100)
+# print(random_number)
 
 ########################################################################
 # Task 8:
 
+import random
+num1 = random.randint(1,10)
+num2 = random.randint(1,10)
 
+hidden_answer = num1 + num2
+
+question = "what is " + str(num1) + " + " + str(num2) + "? "
+guess = input( question )
+
+if int(guess) == hidden_answer:
+    print("you are smart!")
+else:
+    print("go and see the principal!")
 
 ########################################################################
 # Additional exercises:
